@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Microservice Project<br>🌱 I’m currently learning frontend Frameworks and CI CD<br>💬 Ask me anything about java and game dev<br>⚡ Fun fact: I'm nocturnal 😉
+🔭 I’m currently working on JavaScript Multi-Platform Project<br>🌱 I’m currently learning frontend Frameworks and CI CD<br>💬 Ask me anything about java and game dev<br>⚡ Fun fact: I'm nocturnal 😉
 
 
 # 💻 Tech Stack:
