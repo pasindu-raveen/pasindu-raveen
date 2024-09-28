@@ -9,9 +9,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pasindu.raveen.360) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gry_str_zm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-raveen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@PasinduRaveen) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GrAYAtMeRzOOm&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GrAYAtMeRzOOm&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GrAYAtMeRzOOm&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pasindu-raveen&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pasindu-raveen&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu-raveen&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
@@ -20,4 +20,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GrAYAtMeRzOOm&icon=6&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pasindu-raveen&icon=6&color=3)](https://visitcount.itsvg.in)
